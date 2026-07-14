@@ -1,6 +1,6 @@
 <h1>Aadab Abdul Malik - AI Learning Repository</h1>
 
-<p><strong>Fourth semester BS Artificial Intelligence student</strong> at Capital University of Science & Technology.</p>
+<p><strong>BS Artificial Intelligence student</strong> at Capital University of Science & Technology.</p>
 
 <h2>Current Learning</h2>
 <ul>
